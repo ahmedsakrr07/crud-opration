@@ -1,0 +1,57 @@
+body {
+  font-family: 'Cairo', sans-serif;
+}
+.Father {
+  background-color: #ffffff;
+  margin-top: 4%;
+  margin-left: 34%;
+  margin-right: 21%;
+  width: 30%;
+  box-shadow: 1px 0px 11px 1px #888888;
+  border-radius: 5px;
+}
+
+.form-control {
+  display: block;
+  width: 96% !important;
+  padding: 0.375rem 0.75rem;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  appearance: none;
+  background-color: var(--bs-body-bg);
+  background-clip: padding-box;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius);
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  margin-left: 2%;
+}
+
+
+.email {
+  margin-left: 3%;
+  font-weight: 500;
+  padding-bottom: 4px;
+  padding-top: 9px;
+}
+
+.btn-1 {
+  color: white;
+  background-color: #5b5befc9;
+  border: navajowhite;
+  padding-left: 18px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-left: 39%;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  border-radius: 3px;
+}
+.error {
+  color: red;
+  margin-left: 3%;
+  font-size: 11px;
+}

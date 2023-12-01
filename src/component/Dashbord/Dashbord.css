@@ -1,0 +1,67 @@
+.TopBar {
+    background-color: #f8f9fa;
+    box-shadow: 1px 0px 11px 1px #888888;
+    padding: 10px;
+    display: flex;
+}
+.img {
+    width: 35px;
+    height: 35px;
+}
+
+.TopBar p {
+    margin-left: 10px;
+    margin-top: 4px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.user {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+
+
+.Bar {
+    padding: 20px;
+    border-right: 1px solid #6e6e6e47;
+    height: 100vh;
+    background-color: #a9a9a930;
+}
+
+.table {
+margin-top: 35px;
+box-shadow:0px 0px 3px 0px #4c4c4c3d;
+}
+
+.users {
+    text-decoration: none;
+    color: #4949a7;
+    font-size: 17px;
+    font-weight: 600;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+.title {
+    margin-top: 3px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+
+.active {
+    background-color: #4949a794;
+    /* margin-top: 20px; */
+    margin-bottom: 8px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 12px;
+    width: auto;
+    display: block;
+}
